@@ -35,6 +35,11 @@ a {
   color: seashell;
 }
 
+h2, h4 {
+  margin: 0;
+  padding: 10px;
+}
+
 /* Classes */
 .flex-container {
     display: flex;
@@ -56,4 +61,11 @@ a {
   background-repeat: no-repeat;
   height: 700px;
   padding-top: 70px;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+  text-align: center;
 }

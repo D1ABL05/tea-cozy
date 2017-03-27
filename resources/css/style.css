@@ -41,17 +41,17 @@ a {
 }
 
 h2, h3, h4 {
-  margin: 0;
+  margin: 0px;
   padding: 10px;
   font-weight: bold;
 }
 
 /* Classes */
 .flex-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 .main {
   padding-top: 69px;
